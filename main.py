@@ -86,7 +86,7 @@ while correct_comparison:
         else:
             correct_comparison = False
     else:
-        print("Sorry, that's not a valid input, this program will not terminate")
+        print("Sorry, that's not a valid input, this program will now terminate")
         quit()
 
 clear()
